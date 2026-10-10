@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-1. 将脚本添加到 Surge/Quantumult X
+1. 将脚本添加到 Loon/Surge/Quantumult X
 2. 配置 MITM 和 URL Rewrite
 3. 重启 App 即可生效
 
