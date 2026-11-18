@@ -71,6 +71,14 @@
       "url": "https://raw.githubusercontent.com/olekvist/iOS_proxy/main/icons/N26.png"
     },
     {
+      "name": "Bunq",
+      "url": "https://raw.githubusercontent.com/olekvist/iOS_proxy/main/icons/Bunq.png"
+    },
+    {
+      "name": "Kraken",
+      "url": "https://raw.githubusercontent.com/olekvist/iOS_proxy/main/icons/Kraken.png"
+    },
+    {
       "name": "speedtest",
       "url": "https://raw.githubusercontent.com/olekvist/iOS_proxy/main/icons/speedtest.png"
     }
