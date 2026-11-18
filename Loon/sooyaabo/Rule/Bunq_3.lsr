@@ -1,0 +1,21 @@
+# https://github.com/lazyeggg/Rules
+# === bunq 官方自有域名 ===
+DOMAIN-SUFFIX.com
+DOMAIN-SUFFIX.me
+DOMAIN-SUFFIX.nl
+DOMAIN-SUFFIX.to
+DOMAIN-SUFFIX.app
+DOMAIN-KEYWORD
+
+# === bunq 关键第三方依赖（防风控与客服） ===
+DOMAIN-SUFFIX,onfido.com
+DOMAIN-SUFFIX,iproov.me
+DOMAIN-SUFFIX,iproov.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+
+# === 官方 IP 段与 ASN ===
+IP-CIDR,185.40.108.0/22
+IP-CIDR6,2a01:4f60::/32
+IP-ASN,203096
